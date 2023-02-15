@@ -1,0 +1,7 @@
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\bin\Debug\pooCalcularAreaRetangulo.exe.config
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\bin\Debug\pooCalcularAreaRetangulo.exe
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\bin\Debug\pooCalcularAreaRetangulo.pdb
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\obj\Debug\pooCalcularAreaRetangulo.csproj.AssemblyReference.cache
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\obj\Debug\pooCalcularAreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\obj\Debug\pooCalcularAreaRetangulo.exe
+C:\Users\rafaela.souza\source\repos\pooCalcularAreaRetangulo\pooCalcularAreaRetangulo\obj\Debug\pooCalcularAreaRetangulo.pdb

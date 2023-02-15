@@ -1,0 +1,7 @@
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\pooMaiorIdade.exe.config
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\pooMaiorIdade.exe
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\pooMaiorIdade.pdb
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.exe
+C:\Users\rafaela.souza\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.pdb

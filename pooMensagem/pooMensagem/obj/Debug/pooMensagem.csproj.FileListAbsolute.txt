@@ -1,0 +1,7 @@
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.AssemblyReference.cache
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe.config
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\bin\Debug\pooMensagem.pdb
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\obj\Debug\pooMensagem.exe
+C:\Users\rafaela.souza\source\repos\pooMensagem\pooMensagem\obj\Debug\pooMensagem.pdb

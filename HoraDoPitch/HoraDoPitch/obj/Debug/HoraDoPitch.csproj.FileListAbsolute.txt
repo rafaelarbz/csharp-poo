@@ -1,0 +1,7 @@
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\bin\Debug\HoraDoPitch.exe.config
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\bin\Debug\HoraDoPitch.exe
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\bin\Debug\HoraDoPitch.pdb
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\obj\Debug\HoraDoPitch.csproj.AssemblyReference.cache
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\obj\Debug\HoraDoPitch.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\obj\Debug\HoraDoPitch.exe
+C:\Users\rafaela.souza\source\repos\HoraDoPitch\HoraDoPitch\obj\Debug\HoraDoPitch.pdb
